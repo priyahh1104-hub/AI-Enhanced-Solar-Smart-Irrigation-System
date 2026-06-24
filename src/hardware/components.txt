@@ -1,0 +1,8 @@
+ESP32 Development Board
+Soil Moisture Sensor
+DHT11 Temperature and Humidity Sensor
+Relay Module
+Water Pump
+Solar Panel
+Battery
+Wi-Fi Module
